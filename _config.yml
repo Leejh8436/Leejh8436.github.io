@@ -2,10 +2,10 @@ title: Hyde
 description: >-
   Build your own portfolio <br>
   with Hyde.
-url: "https://chemistryx.github.io"
+url: "https://Leejh8436.github.io"
 baseurl: "/hyde"
-github: ChemistryX
-email: changeme@chemistryx.me
+github: Leejh8436
+email: jeonghan8436@naver.com
 google_analytics: "UA_TOKEN"
 
 exclude: [README.md, Gemfile, Gemfile.lock]
